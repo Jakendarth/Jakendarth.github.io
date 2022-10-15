@@ -6,15 +6,15 @@ subtitle:
 
 profile:
   align: right
-  image: ../assets/img/prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.jpg
+  image_circular: true # crops the image to make it circular
   address: >
     <p>34-B-340</p>
     <p>Mekelweg 5</p>
     <p>2628CD Delft, The Netherlands</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
