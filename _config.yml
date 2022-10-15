@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Nikos
-middle_name: R.
+middle_name:
 last_name: Kougiatsos
 email: kougiatsosn@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -70,10 +70,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: Jakendarth # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+linkedin_username: nkougiatsos # your LinkedIn user name
+scholar_userid: Nikos Kougiatsos # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
-orcid_id: # your ORCID ID
+orcid_id: 0000-0001-9518-9114 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
