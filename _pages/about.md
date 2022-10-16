@@ -7,13 +7,13 @@ subtitle:
 profile:
   align: right
   image: prof_pic.jpeg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>34-B-340</p>
     <p>Mekelweg 5</p>
     <p>2628CD Delft, The Netherlands</p>
 cv_pdf: cv_eng_kougiatsos.pdf
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -29,7 +29,7 @@ He received his diploma in the field of Naval Architecture and Marine Engineerin
 </div>
 {% endif %}
 
----
+<hr>
 
 {% if site.data.repositories.github_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
