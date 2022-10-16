@@ -2,31 +2,25 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Nikolaos Kougiatsos
     - name: Date of Birth
-      value: 14th March 1879
+      value: 17th June 1997
     - name: Languages
-      value: English, German
+      value: English, French, Greek
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Delft University of Technology, the Netherlands
+      year: ongoing
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+       Scalable, Modular and Fault-tolerant control for intelligent marine vessels
+    - title: Integrated BSc and MSc
+      institution: National Technical University of Athens, Greece
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
+        Naval Architecture & Marine Engineering
 
 - title: Experience
   type: time_table
