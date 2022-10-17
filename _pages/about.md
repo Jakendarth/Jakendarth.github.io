@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle:
-
+cv_pdf: cv_eng_kougiatsos.pdf
 profile:
   align: right
   image: prof_pic.jpeg
