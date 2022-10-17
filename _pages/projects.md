@@ -6,7 +6,7 @@ description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
@@ -57,6 +57,7 @@ horizontal: true
 {%- endif -%}
 </div>
 ## Github stats
+<hr>
 {% if site.data.repositories.github_users %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for user in site.data.repositories.github_users %}
