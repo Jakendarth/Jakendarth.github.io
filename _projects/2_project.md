@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Scalable, Modular and Fault Tolerant Control for intelligent marine vessels
+description: Find out more about my PhD and proposed student projects
+img: assets/img/5.jpg
 importance: 2
 category: work
 ---
