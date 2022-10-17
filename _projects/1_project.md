@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: READINESS
+description: An NWO funded project towards the Blue Route vision
+img: assets/img/pexels-matthew-barra-813011.png
+redirect: https://ship-readiness.nl
 importance: 1
 category: work
 ---
