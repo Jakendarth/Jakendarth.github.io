@@ -14,9 +14,18 @@ profile:
     <p>2628CD Delft, The Netherlands</p>
 cv_pdf: cv_eng_kougiatsos.pdf
 news: false  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<p style='text-align: justify;'>Nikos Kougiatsos, MSc is currently a PhD Candidate within the Transport Engineering and Logistics Section of the Maritime and Transport Technology Department. 
-He received his diploma in the field of Naval Architecture and Marine Engineering from the National Technical University of Athens (NTUA), Greece in 2020. During his Master studies, he received two scholaships from the American Bureau of Shipping (ABS) as well as the Ch. Papakyriakopoulou scholarship for his excellent academic performance. <p>
+<p style='text-align: justify;'>Nikos Kougiatsos, MSc is currently a PhD Candidate within the Transport Engineering and Logistics Section of the Maritime and Transport Technology Department at Delft University of Technology. 
+He received his diploma in the field of Naval Architecture and Marine Engineering from the National Technical University of Athens (NTUA), Greece in 2020. During his Master studies, he received two scholaships from the American Bureau of Shipping (ABS) as well as the Ch. Papakyriakopoulou scholarship for his excellent academic performance. <p><br>
+## Research interests:
+- Non-centralised control,
+- Plug-and-play control, Switching methods,
+- Smart sensor modalities,
+- Fault diagnosis,
+- Fault-tolerance,
+- Cybersecurity
+
+in marine vessel low-level control architectures.
